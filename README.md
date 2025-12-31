@@ -49,8 +49,22 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 ---
 
 ### 📊 Mis Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegosnt&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Diego" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnt&layout=compact&theme=radical&hide=html,css" alt="Lenguajes" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosnt&theme=radical" alt="Perfil detallado" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosnt&theme=radical" alt="Repos por lenguaje" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegosnt&theme=radical" alt="Lenguajes más usados" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegosnt&theme=radical" alt="Estadísticas" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diegosnt&theme=radical" alt="Tiempo productivo" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diegosnt&theme=radical&no-frame=true&row=1&column=7" alt="Trofeos" />
 </p>
 
