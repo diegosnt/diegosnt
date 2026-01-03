@@ -46,6 +46,7 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 ## 🛠️ Mi Toolbox Tecnológico
 
 <div align="center">
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 10px; margin: 10px 0;">
 
 ### Front-End
 <p>
@@ -96,6 +97,7 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </p>
 
+</div>
 </div>
 
 <br/>
