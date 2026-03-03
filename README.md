@@ -8,6 +8,8 @@
 
 # 👋 ¡Hola! Soy Diego
 
+![Profile Views](https://komarev.com/ghpvc/?username=diegosnt&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+
 Soy un desarrollador apasionado por crear software eficiente y escalable. Con una base sólida en el ecosistema **.NET** y **JavaScript**, disfruto enfrentando retos técnicos que involucren tanto el desarrollo de interfaces modernas como arquitecturas robustas en el servidor y automatización.
 
 </div>
@@ -50,7 +52,7 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 
 ### Front-End
 <p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   &nbsp;&nbsp;
@@ -71,7 +73,7 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   &nbsp;&nbsp;
@@ -95,6 +97,8 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
 </p>
 
 </div>
@@ -124,7 +128,7 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=diegosnt&theme=radical&no-frame=true&row=1&column=7" alt="Trofeos" />
+<img src="https://streak-stats.demolab.com?user=diegosnt&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" width="60%" />
 
 </div>
 
