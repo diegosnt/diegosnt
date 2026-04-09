@@ -148,6 +148,11 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=diegosnt&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnt&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosnt&theme=radical" alt="Perfil detallado" width="100%"/>
 
 <br/>
@@ -164,6 +169,38 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <img src="https://streak-stats.demolab.com?user=diegosnt&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" width="60%" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diegosnt&bg_color=141321&color=B44FE8&line=B44FE8&point=FFFFFF&area=true&area_color=B44FE8&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+
+<br/>
+
+## 🐍 Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosnt/diegosnt/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosnt/diegosnt/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/diegosnt/diegosnt/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+
+<br/>
+
+## 🌐 Mapa de Contribuciones 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
 <br/>
