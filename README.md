@@ -6,17 +6,27 @@
 
 <div align="center">
 
-# 👋 ¡Hola! Soy Diego
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44FE8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Ecosistema+.NET+%26+JavaScript;Microservicios+%26+Contenedorizaci%C3%B3n;DevOps+%7C+CI%2FCD+%7C+Infraestructura)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diegosnt&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
-
-Soy un desarrollador apasionado por crear software eficiente y escalable. Con una base sólida en el ecosistema **.NET** y **JavaScript**, disfruto enfrentando retos técnicos que involucren tanto el desarrollo de interfaces modernas como arquitecturas robustas en el servidor y automatización.
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+Desarrollador Full Stack con sólida experiencia en el ecosistema **.NET** y **JavaScript**.
+Me especializo en construir arquitecturas robustas, escalar sistemas y automatizar flujos de despliegue.
+Disfruto tanto de diseñar la lógica del servidor como de crear interfaces modernas y reactivas.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
 
 <br/>
 
@@ -37,18 +47,31 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+🧠 **Filosofía**
+> Código limpio, arquitecturas mantenibles y automatización donde sea posible
+
+</td>
+<td width="50%">
+
+🌱 **Aprendiendo**
+> Kubernetes avanzado, patrones de arquitectura distribuida y observabilidad
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
 
 <br/>
 
 ## 🛠️ Mi Toolbox Tecnológico
 
 <div align="center">
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 10px; margin: 10px 0;">
 
 ### Front-End
 <p>
@@ -102,11 +125,22 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 </p>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+
+<br/>
+
+## 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diegosnt&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
 
 <br/>
 
@@ -131,10 +165,6 @@ Soy un desarrollador apasionado por crear software eficiente y escalable. Con un
 <img src="https://streak-stats.demolab.com?user=diegosnt&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" width="60%" />
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
