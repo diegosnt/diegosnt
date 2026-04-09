@@ -132,18 +132,6 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-## 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diegosnt&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
-
-<br/>
-
 ## 📊 Mis Estadísticas
 
 <div align="center">
