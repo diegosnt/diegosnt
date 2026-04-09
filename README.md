@@ -135,7 +135,7 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diegosnt&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=diegosnt&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%"/>
 </div>
 
 <br/>
@@ -147,11 +147,6 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 ## 📊 Mis Estadísticas
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=diegosnt&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnt&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-
-<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosnt&theme=radical" alt="Perfil detallado" width="100%"/>
 
