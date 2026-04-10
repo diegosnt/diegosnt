@@ -136,7 +136,7 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnt&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=16" alt="Distribución de Lenguajes" width="55%"/>
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/metrics-languages.svg" alt="Distribución de Lenguajes" width="80%"/>
 
 </div>
 
