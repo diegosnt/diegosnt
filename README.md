@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,28&height=250&section=header&text=Diego&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=60&descAlign=50&descSize=20" width="100%"/>
+  <img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/banner.svg" alt="Diego — Full Stack Developer" width="100%"/>
 </div>
 
 <br/>
