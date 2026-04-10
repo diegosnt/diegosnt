@@ -26,11 +26,9 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/divider.svg" width="100%"/>
 
 <br/>
-
-## 💼 Perfil Profesional
 
 <table>
 <tr>
@@ -65,11 +63,9 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/divider.svg" width="100%"/>
 
 <br/>
-
-## 🛠️ Mi Toolbox Tecnológico
 
 <div align="center">
 
@@ -90,11 +86,9 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/divider.svg" width="100%"/>
 
 <br/>
-
-## 📊 Distribución de Lenguajes
 
 <div align="center">
 
@@ -104,11 +98,9 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/divider.svg" width="100%"/>
 
 <br/>
-
-## 🐍 Contribuciones
 
 <div align="center">
   <picture>
@@ -120,11 +112,9 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24,28&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/divider.svg" width="100%"/>
 
 <br/>
-
-## 🌐 Mapa de Contribuciones 3D
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
@@ -133,5 +123,5 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,28&height=150&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/footer.svg" width="100%"/>
 </div>
