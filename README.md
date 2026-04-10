@@ -132,29 +132,11 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-## 📊 Mis Estadísticas
+## 📊 Distribución de Lenguajes
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosnt&theme=radical" alt="Perfil detallado" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosnt&theme=radical" alt="Repos por lenguaje" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegosnt&theme=radical" alt="Lenguajes más usados" width="48%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegosnt&theme=radical" alt="Estadísticas" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diegosnt&theme=radical" alt="Tiempo productivo" width="48%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=diegosnt&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diegosnt&bg_color=141321&color=B44FE8&line=B44FE8&point=FFFFFF&area=true&area_color=B44FE8&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnt&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=16" alt="Distribución de Lenguajes" width="55%"/>
 
 </div>
 
