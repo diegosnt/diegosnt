@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +18,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # Solo genera el tema que usa el README (evita commitear
+          # los otros 9 SVG sin uso y el crecimiento de .git que eso implica).
+          SETTING_JSON: ${{ github.workspace }}/.github/profile-3d-settings.json
 
       - name: Commit & Push
         run: |
@@ -22,4 +28,5 @@ jobs:
           git config user.name "GitHub Action"
           git add -A .
           git diff --cached --quiet || git commit -m "chore: update 3d contribution graph"
+          git pull --rebase origin main
           git push

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44FE8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Ecosistema+.NET+%26+JavaScript;Microservicios+%26+Contenedorizaci%C3%B3n;DevOps+%7C+CI%2FCD+%7C+Infraestructura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44FE8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Ecosistema+.NET+%26+JavaScript;Microservicios+%26+Contenedorizaci%C3%B3n;DevOps+%7C+CI%2FCD+%7C+Infraestructura)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
