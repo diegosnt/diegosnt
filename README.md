@@ -30,36 +30,9 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-
-🎯 **Enfoque Actual**
-> Desarrollo de aplicaciones Full Stack y optimización de flujos de CI/CD
-
-</td>
-<td width="50%">
-
-🚀 **Intereses**
-> Arquitectura de microservicios, contenedorización y desarrollo de interfaces reactivas
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-🧠 **Filosofía**
-> Código limpio, arquitecturas mantenibles y automatización donde sea posible
-
-</td>
-<td width="50%">
-
-🌱 **Aprendiendo**
-> Kubernetes avanzado, patrones de arquitectura distribuida y observabilidad
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/focus-grid.svg" alt="Enfoque, intereses, filosofía y aprendizaje" width="100%"/>
+</div>
 
 <br/>
 
@@ -69,18 +42,33 @@ Disfruto tanto de diseñar la lógica del servidor como de crear interfaces mode
 
 <div align="center">
 
-### Front-End
+<img src="https://img.shields.io/badge/Front--End-B44FE8?style=for-the-badge&logoColor=white" alt="Front-End"/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" alt="Frontend skills" />
 
-<br/>
+<br/><br/>
 
-### Back-End & Lenguajes
+<img src="https://img.shields.io/badge/Back--End%20%26%20Lenguajes-7C3AED?style=for-the-badge&logoColor=white" alt="Back-End & Lenguajes"/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,cpp" alt="Backend skills" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Infraestructura%2C%20DB%20%26%20DevOps-9333EA?style=for-the-badge&logoColor=white" alt="Infraestructura, DB & DevOps"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,linux,postgres,mysql,sqlserver,git,kubernetes" alt="DevOps skills" />
+
+</div>
+
 <br/>
 
-### Infraestructura, DB & DevOps
-<img src="https://skillicons.dev/icons?i=docker,jenkins,linux,postgres,mysql,sqlserver,git,kubernetes" alt="DevOps skills" />
+<img src="https://raw.githubusercontent.com/diegosnt/diegosnt/main/divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=diegosnt&show_icons=true&theme=transparent&hide_border=true&title_color=C084FC&icon_color=B44FE8&text_color=94A3B8&ring_color=B44FE8" alt="Estadísticas de GitHub" width="48%"/>
 
 </div>
 
