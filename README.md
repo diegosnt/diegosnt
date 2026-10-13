@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=diegosnt&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=diegosnt.diegosnt&color=blueviolet&style=flat-square&left_text=Visitas+al+perfil)
 
 </div>
 
